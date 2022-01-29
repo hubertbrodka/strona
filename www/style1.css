@@ -1,0 +1,33 @@
+body
+{
+	background-color: #B8B8B8;
+	font-family: Verdana;
+	font-size: 20px;
+	color: #FF6D00;
+}
+h1
+{
+	font-size: 50px;
+	text-align: center;	
+}
+
+/*drugi link na stronie*/
+a:link
+{
+	color:#EC407A;
+}
+
+/*pierwszy link na stronie*/
+a:visited
+{
+	color:#EC407A;
+}
+
+/*najechanie kursorem*/
+a:hover
+{
+	color:#238E23;
+}
+
+
+
